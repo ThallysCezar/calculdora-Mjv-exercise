@@ -2,6 +2,8 @@
 
 Este é um projeto simples de uma calculadora em Java, desenvolvido como parte do meu processo de revisão e aprendizado contínuo na linguagem, o qual pensei em treinar para reaprender algumas coisas básicas.
 
+Fiz o projeto no dia 22/01/2024
+
 ## Funcionalidades
 
 - Cadastro de usuários.
